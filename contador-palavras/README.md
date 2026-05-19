@@ -48,7 +48,7 @@ contador-palavras/
 Entre na pasta do projeto:
 
 ```powershell
-cd "C:\Users\nogue\Documents\Codex\projetos\contador-palavras"
+cd "C:contador-palavras"
 ```
 
 Execute o programa:
